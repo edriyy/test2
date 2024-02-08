@@ -1,0 +1,107 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiApp1
+build_property.ProjectDir = C:\Users\User\source\repos\MauiApp1\MauiApp1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/AbsoluteLayoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.AbsoluteLayoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AbsoluteLayoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AbsoluteLayoutPage.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/FlexLayoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.FlexLayoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = FlexLayoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = FlexLayoutPage.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/FlyoutPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.FlyoutPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = FlyoutPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = FlyoutPageDemo.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/GridDemoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.GridDemoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = GridDemoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = GridDemoPage.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/HorizontalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = HorizontalStackLayoutDemo.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/NewPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.NewPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = NewPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = NewPage1.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/PrintDemoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.PrintDemoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PrintDemoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PrintDemoPage.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/StackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = StackLayoutDemo.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/TabbedPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.TabbedPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = TabbedPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = TabbedPageDemo.xaml
+
+[C:/Users/User/source/repos/MauiApp1/MauiApp1/VerticalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = VerticalStackLayoutDemo.xaml
